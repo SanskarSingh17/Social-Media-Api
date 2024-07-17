@@ -31,6 +31,7 @@ MYSQL_USER=social_user
 MYSQL_PASSWORD=social_password
 MYSQL_ROOT_PASSWORD=root_password
 
+
 3.Build and run the application with Docker:
 docker-compose up --build
 
@@ -39,6 +40,7 @@ MySQL Database: social_network_db
 MySQL User: social_user
 MySQL Password: social_password
 MySQL Root Password: root_password
+
 
 
 API Endpoints
