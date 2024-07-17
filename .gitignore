@@ -1,0 +1,22 @@
+# Python/Django specific
+*.pyc
+__pycache__/
+*.mysql
+
+# Virtual environment
+.env
+
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
