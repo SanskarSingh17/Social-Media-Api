@@ -17,7 +17,7 @@ Docker Compose
 1.Installation
 Clone the repository:
 
-git clone <repo-url>
+git clone https://github.com/SanskarSingh17/Social-media-API
 cd social-network-api
 
 2.Set up environment variables:
