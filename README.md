@@ -1,15 +1,15 @@
-Social Networking API
-Overview
+# Social Networking API
+## Overview
 This project implements a RESTful API for a social networking application using Django REST Framework. It includes user authentication, friend requests, and user search functionalities.
 
-Technologies Used
-Django
-Django REST Framework
-MySQL
-Docker
+### Technologies Used
+- Django
+- Django REST Framework
+- MySQL
+- Docker
 
-Prerequisites
-Before you begin, ensure you have installed the following:
+### Prerequisites
+- **Before you begin, ensure you have installed the following:**
 
 Docker
 Docker Compose
